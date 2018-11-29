@@ -1,3 +1,16 @@
+Relevant Objective Understainding:
+https://hanxiao.github.io/2018/04/21/Teach-Machine-to-Comprehend-Text-and-Answer-Question-with-Tensorflow/
+https://hanxiao.github.io/2018/09/09/Dual-Ask-Answer-Network-for-Machine-Reading-Comprehension/
+https://www.microsoft.com/en-us/research/blog/transfer-learning-machine-reading-comprehension/
+http://tcci.ccf.org.cn/conference/2017/dldoc/ADL05_gjf.pdf
+
+Websites:
+https://www.kdnuggets.com/2018/10/machine-reading-comprehension-learning-ask-answer.html
+https://github.com/topics/machine-reading-comprehension
+https://github.com/dfcf93/MSMARCOV2
+https://www.kdnuggets.com/2018/04/nlp-question-answering-model.html
+
+Papers : 
+http://aclweb.org/anthology/W00-1316
 https://arxiv.org/pdf/1809.01997.pdf
 https://arxiv.org/pdf/1809.03449.pdf
-https://www.kdnuggets.com/2018/10/machine-reading-comprehension-learning-ask-answer.html
